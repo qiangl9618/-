@@ -1,0 +1,1 @@
+aws s3 ls --profile ME s3://mobileye-adcammid-chinputs-cnw1-inputs/SC_data_collection/

@@ -1,0 +1,1 @@
+putty -i D:\PuTTY\hxy.ppk -l ec2-user ec2-68-79-47-249.cn-northwest-1.compute.amazonaws.com.cn
